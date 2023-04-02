@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+
+.list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+
+.link-item {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header-home {
+  font-family: 'Roboto';
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.header-about {
+  font-family: 'Roboto';
+  font-size: 20px;
+  list-style-type: none;
+}

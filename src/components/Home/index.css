@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+
+.home-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.logout-button {
+  font-family: 'Roboto';
+  width: 100px;
+  cursor: pointer;
+  outline: none;
+}
